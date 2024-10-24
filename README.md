@@ -3,8 +3,8 @@
 Написание кода для flask приложения.
 Развертывание веб-приложения на сайте **render.com**
 
-#Развернутое рабочее веб-приложение - **https://weld-prediction-hzt7.onrender.com**
-preview.jpg
+# Развернутое рабочее веб-приложение
+**https://weld-prediction-hzt7.onrender.com**
 
 
 # Содержимое репозитория
