@@ -6,7 +6,11 @@
 Развертывание веб-приложения на сайте **render.com**
 
 # Развернутое рабочее веб-приложение
+
 **https://weld-prediction-hzt7.onrender.com**
+
+Так как хостинг бесплатный, то загрузка может занять какое-то время.
+Ниже приведен скриншот рабочей модели:
 
 ![alt text](https://raw.githubusercontent.com/Koatga/Weld_prediction/2bfe2beda180b131fe255fa3e749df21ffecbfec/preview.jpg)
 
