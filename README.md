@@ -5,7 +5,7 @@
 
 # Развернутое рабочее веб-приложение
 **https://weld-prediction-hzt7.onrender.com**
-![alt text](https://raw.githubusercontent.com/Koatga/Weld_prediction/4472840260b30cff617c333d746557cb06d7c439/preview.jpg)
+![alt text](https://raw.githubusercontent.com/Koatga/Weld_prediction/2bfe2beda180b131fe255fa3e749df21ffecbfec/preview.jpg)
 
 # Содержимое репозитория
 В папке **Notebook** находится файл с задачей, процессом выполнения работы, а так же вывод.
